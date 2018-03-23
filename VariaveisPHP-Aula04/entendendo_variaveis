@@ -1,0 +1,36 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: kachorroski
+ * Date: 22/03/18
+ * Time: 15:04
+ *
+ *
+ *
+ * Logica Portugol:
+ * idade <- 3 -         Tipo: inteiro
+ * sal <- 1825.55 -     Tipo: float
+ * nome <- "Leandro" -  Tipo: String
+ * casado <-            Tipo: Logico
+ *
+ * Logica PHP:
+ * $idade = 3;          Tipo: inteiro
+ * $sal = 1825.55;      Tipo: float
+ * $nome = "Leandro";   Tipo: String
+ * $casado = false;     Tipo: Logico
+ *
+ * Declaração de Variaveis:
+ * O PHP não tem que declarar o tipo de dado, pois o PHP trata os tipos de dados por um metodo chamado Coerção.
+ * Se A recebe 2 ele é Inteiro, se mais tarde A receber 3.5 ele passa a ser Float. Ele modifica os tipo de acordo com sua
+ * atibuição.
+ *
+ * Tipos primitivos:
+ * Inteiro: (int), (interger) <-- typecast
+ * Real: (real), (float),(double) <-- typecast
+ * Caracter: (String)
+ * Logico: (???) true ou false no caso de true = 1, no caso de false = vazio.
+ *
+ */
+
+
+
